@@ -1,2 +1,7 @@
 /node_modules/
 /builde/
+build/bundle.js
+build/bundle.js.LICENSE.txt
+build/index.html
+build/bundle.js.LICENSE.txt
+build/bundle.js.map
